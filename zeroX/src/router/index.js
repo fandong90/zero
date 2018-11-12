@@ -1,15 +1,24 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import HelloWorld from '@/components/HelloWorld'
-
+import XRecommend from '@/components/XRecommend'
+import xhadoop from '@/components/Xhadoop'
 Vue.use(Router)
-
 export default new Router({
   routes: [
     {
       path: '/',
-      name: 'HelloWorld',
-      component: HelloWorld
+      name: 'XRecommend',
+      component: XRecommend
+    },
+    {
+      path: '/XRecommend',
+      name: 'XRecommend',
+      component: XRecommend
+    },
+    {
+      path: '/Xhadoop',
+      name: 'Xhadoop',
+      component: xhadoop
     }
   ]
 })
