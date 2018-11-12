@@ -1,5 +1,5 @@
 <template>
-    <div><img src="../assets/index.jpg"/></div>
+    <div ><img src="../assets/index.jpg" style="b"  /></div>
 </template>
 <script>
     export default {
