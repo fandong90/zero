@@ -11,7 +11,7 @@
                   <el-menu-item index="2-1" ><router-link style="text-decoration-line: none;color:#fff;" to="Xhadoop">hadoop</router-link></el-menu-item>
                   <el-menu-item index="2-2" ><router-link style="text-decoration-line: none;color:#fff;" to="Xhive">hive</router-link></el-menu-item>
                   <el-menu-item index="2-3" ><router-link style="text-decoration-line: none;color:#fff;" to="Xspark">spark</router-link></el-menu-item>
-                  <el-menu-item index="2-4" ><router-link style="text-decoration-line: none;color:#fff;" to="Xprolang">progamming language</router-link></el-menu-item>
+                  <el-menu-item index="2-4" ><router-link style="text-decoration-line: none;color:#fff;" to="Xprogram">progamming language</router-link></el-menu-item>
               </el-submenu>
               <el-menu-item style="float:right;" index="3"><i class="el-icon-setting"></i></el-menu-item>
             </el-menu>
